@@ -3,7 +3,7 @@ int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers;
     
-    printf("Enter two integers: ");
+    printf("Enter two integers please: ");
 
     // Two integers entered by user is stored using scanf() function
     scanf("%d %d", &firstNumber, &secondNumber);
